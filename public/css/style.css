@@ -1,0 +1,41 @@
+h1{
+ color:#00aec5;
+ text-shadow: 3px 3px 1px rgb(48, 192, 211);
+ transition: all 500ms;
+}
+
+h1:hover{
+    text-shadow: 1px 2px 2px rgb(109, 215, 230);
+}
+
+.reloj{
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+#tituloCards{
+    margin: 7px;
+    font-size: 20px;
+    color: rgb(34, 141, 160);
+    text-shadow: 1px 1px 1px rgb(12, 51, 56);
+    transition: all 400ms;
+}
+
+#tituloCards:hover{
+    transform: scale(1.2,1.2) !important;
+}
+
+
+.reloj-text{
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+#mas{
+    position: absolute;
+    z-index: 3;
+    text-align: center;
+}
+
+
